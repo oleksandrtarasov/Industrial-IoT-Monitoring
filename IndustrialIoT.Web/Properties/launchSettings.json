@@ -1,0 +1,12 @@
+﻿{
+  "profiles": {
+    "IndustrialIoT.Web": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "applicationUrl": "https://localhost:7160;http://localhost:5160",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
